@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/BrunoBarros92/" target="_blank">
+<a href="https://www.linkedin.com/in/bruno-barros-xavier/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
